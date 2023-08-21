@@ -1,0 +1,2 @@
+# AIMLFundamentals
+numpy, pandas, visualization
